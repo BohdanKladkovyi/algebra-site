@@ -1,0 +1,24 @@
+
+.wrap-text {
+    position: absolute;
+    width: 100%;
+    top: 90px;
+    padding: 0 10px;
+    text-align: center;
+    color:#ffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 400; 
+  }
+  .wrap-text > div {
+    padding: 10px;
+    
+  }
+  .item {
+    position: relative;
+    float: left;
+    width: calc(33.33333% - 20px);
+    margin-right: 20px; 
+  }
+  .wrap-text p{
+      font-size:24px;
+  }
